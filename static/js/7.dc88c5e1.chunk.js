@@ -1,0 +1,2 @@
+(this.webpackJsonphnf=this.webpackJsonphnf||[]).push([[7],{51:function(e,t,n){"use strict";n.r(t);var a=n(0),c=n.n(a);t.default=function(){return c.a.createElement("div",{className:"c-app c-default-layout flex-row align-items-center"},c.a.createElement("h1",null,"Login"),c.a.createElement("p",{className:"text-muted"},"Sign In to your account"))}}}]);
+//# sourceMappingURL=7.dc88c5e1.chunk.js.map

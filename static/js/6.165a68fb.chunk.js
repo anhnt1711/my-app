@@ -1,0 +1,2 @@
+(this.webpackJsonphnf=this.webpackJsonphnf||[]).push([[6],{52:function(e,t,n){"use strict";n.r(t);var a=n(12),c=n(13),r=n(15),s=n(14),i=n(0),u=n.n(i),o=function(e){Object(r.a)(n,e);var t=Object(s.a)(n);function n(){return Object(a.a)(this,n),t.apply(this,arguments)}return Object(c.a)(n,[{key:"render",value:function(){return u.a.createElement("div",{className:"App"},u.a.createElement("p",null,"This is content of Dashboard"))}}]),n}(i.Component);t.default=o}}]);
+//# sourceMappingURL=6.165a68fb.chunk.js.map
